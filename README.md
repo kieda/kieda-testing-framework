@@ -33,7 +33,7 @@ default (i.e. a command that is not recognized) is the output file.<br>
 The default setting are<br>
 <code>out.bro -m m -m p -m r -k m -k p</code><br>
 Future args will support non-stop mode (where the can only exit if he/she presses a specific key, rather than ALT+TAB and losing focus.)<br><br>
-<b>Type "exit" into the command line to exit and save your recording.</b>
+<b>Type "<code>exit</code>" into the command line to exit and save your recording.</b>
 <br><br>
 
 You play back macros via <code>/src/drivers/MainRepeat</code><br>
