@@ -13,6 +13,9 @@ Peace.
 <i> - The Royal Tart Toter </i><br>
 
 --------------------------
+
+The testing framework, in its current position, is a framework for timed recording of a list of mouse movements, mouse presses/releases, and key presses/releases, the ability to edit the list for additional versatility, and compiling the list to a bytecode format (to play a macro or possibily for redistribution to recreate the actions.) This testing framework, more recently, has turned into a very peculiar messaging system between my little brother and I, as I can type a message to him; draw a picture; or do many other things, send him the compressed file; and he gets to see the message re-created right before his eyes, with the exact timing as if I were drawing it. Furthermore, the message can be repeated back for him to see again. The quote above was the first message sent between my little brother and I, hence the reference to Adventure Time (his, and possibly my, favorite show.)<br>
+Future versions will support 'painting' on the screen during recording, additional versatility in what keys can be pressed while recording, and cross-compatibility beween different moniters during playback<br><br>
 Files are typically saved as "bro" files with the file extention ".bro"<br>
 There are a few included bro files for painting smileys in mspaint, and typing the famous writing the famous royal tart toter's speech.<br>
 Note that these files were initially recorded using my own computer, and so the macros probably won't work unless if your computer is set up like mine! (like windows + taskbar on top, 1600x900 resolution.)<br><br>
