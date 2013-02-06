@@ -10,9 +10,7 @@ Then I'll still be here tomorrow<br>
 To high five you yesterday, my friend.<br>
 Peace.
 </i></DIV>
-
-<h4><i></i></h4>
-<h4><i></i></h4></CENTER>
+<i> - The Royal Tart Toter </i><br>
 
 --------------------------
 Files are typically saved as "bro" files with the file extention ".bro"<br>
